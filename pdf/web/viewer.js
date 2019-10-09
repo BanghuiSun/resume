@@ -27,7 +27,7 @@
 
 'use strict';
 
-var DEFAULT_URL = '../resume_file/resume.pdf';
+var DEFAULT_URL = '../resume_file/孙帮辉-个人简历.pdf';
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
